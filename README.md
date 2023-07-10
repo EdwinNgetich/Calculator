@@ -1,4 +1,5 @@
 # Calculator
-this is my first project in DevOps
+This is my Simple Calculator project in python language.
+
 
 
